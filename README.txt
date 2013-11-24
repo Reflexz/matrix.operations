@@ -8,3 +8,9 @@ matrix.operations
 4. Symmetric difference matrices
 5. Descartes multiplication matrices
 6. Universum matrices
+
+language: rus.
+
+:) In the future:
+language: eng
+improvement algorithm
